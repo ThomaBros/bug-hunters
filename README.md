@@ -9,4 +9,4 @@ Fix the code, open the door. A free dungeon game that teaches beginners to code.
 Works on desktop, tablet and phone. No download, no sign-up, always free.
 
 ---
-Made by Flux Studios Games.
+Made by ThomaBros.
